@@ -1589,3 +1589,7 @@
             padding: 10px 30px; 
             border-radius: 17px 17px 0px 0px;
         }
+
+        .iconOrigenOrange{
+                background: linear-gradient(269deg, #FD921E -17.05%, #FF621D 36.64%, #E73A4E 91.48%);
+        }
