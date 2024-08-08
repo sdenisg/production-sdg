@@ -1594,3 +1594,7 @@
           color:#FF621D;
           width: 10%;
         }
+        img.iconWidth {
+            width: 6%;
+            margin-right: 3%;
+        }
